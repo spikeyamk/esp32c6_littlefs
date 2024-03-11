@@ -1,0 +1,1 @@
+idf_component_register(SRCS "littlefs/lfs_util.c" "littlefs/lfs.c" INCLUDE_DIRS ".")

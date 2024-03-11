@@ -1,0 +1,10 @@
+idf_component_register(
+    SRCS
+    "main.cpp"
+    "lfs_port/mem/test.cpp"
+    "lfs_port/sdmmc/test.cpp"
+    "sd_card.cpp"
+    INCLUDE_DIRS
+    "."
+    "include"
+)
