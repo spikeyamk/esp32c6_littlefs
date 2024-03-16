@@ -1,3 +1,7 @@
 [submodule "components/littlefs_wrapper/littlefs"]
 	path = components/littlefs_wrapper/littlefs
 	url = https://www.github.com/littlefs-project/littlefs
+
+[submodule "components/trielo_wrapper/trielo"]
+	path = components/trielo_wrapper/trielo
+	url = https://www.github.com/spikeyamk/trielo
